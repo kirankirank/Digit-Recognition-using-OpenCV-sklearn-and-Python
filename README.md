@@ -1,4 +1,6 @@
 # Finger Counter using Hand Tracking | Computer Vision | OpenCV Python
+link for the MedianPipe https://google.github.io/mediapipe/
+
 
 
 
@@ -37,7 +39,7 @@ Resources
 
 
 
-
+linked in https://www.linkedin.com/in/pogakula-kiran-kumar-733144222/
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
