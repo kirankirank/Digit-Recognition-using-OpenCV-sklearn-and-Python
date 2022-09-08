@@ -1,1 +1,1 @@
-# Digit-Recognition-using-OpenCV-sklearn-and-Python
+# Finger Counter using Hand Tracking | Computer Vision | OpenCV Python
